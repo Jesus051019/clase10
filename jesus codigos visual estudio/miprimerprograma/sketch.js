@@ -1,0 +1,15 @@
+console.log("hola");
+console.log("hola amigo, como esta tu dia¿?");
+console.log("Bien hermano, con algo de frio");
+console.log("Si a estado haciendo demasiado, y que estudias ahora¿?");
+console.log("Pues me meti a un urso de programación");
+console.log("Enserio¿? Y como se llama");
+console.log("Dejame te cuento se trata de BYJU¨S future school");
+console.log("Woow y eso que es o que¿?");
+console.log("Es uno de los cursos mejor explicados para aprender a programar");
+console.log("Y tu ya has aprendido algo");
+console.log("Si te enseñan a crear juegos y apps bro");
+console.log("O eso suena genial me lo mandas mas tarde va¿?");
+console.log("Si bro bueno ya entrare a mi curso nos vemos");
+console.log("Si nos vemos, hasta luego hermano");
+console.log("Adios bro");
